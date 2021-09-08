@@ -1,2 +1,5 @@
 # hello-world
-no optional
+
+Hello everyone
+I am a student in Shanghai who want to study code 
+fighting!
